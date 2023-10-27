@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm tanyouchun</h1>
+<h3 align="center">A software engineering student from Malaysia</h3>
+
+- 📫 How to reach me **tanchun@graduate.utm.my**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ### Hi there 👋
 
 <!--
