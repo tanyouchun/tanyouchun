@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tanyouchun</h1>
-<h3 align="center">A software engineering student from Malaysia</h3>
+<h3 align="center">software engineering student from Malaysia</h3>
 
 - 📫 How to reach me **tanchun@graduate.utm.my**
 
